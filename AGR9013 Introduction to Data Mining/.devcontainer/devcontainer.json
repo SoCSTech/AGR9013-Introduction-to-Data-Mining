@@ -1,7 +1,7 @@
 {
     "name": "Introduction to Data Mining",
     
-    "image": "ghcr.io/socstech/cmp9013:latest",
+    "image": "ghcr.io/socstech/agr9013:latest",
 
     //"build": { "dockerfile": "Dockerfile" },
 

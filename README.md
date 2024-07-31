@@ -1,4 +1,4 @@
-# CMP9013 Introduction to Data Mining
+# AGR9013 Introduction to Data Mining
 This repository houses the devcontainer and docker image for the Introduction to Data Mining module at the University of Lincoln.
 ## What is Docker?
 Docker is a platform which allows developers to create and share containers.
@@ -28,13 +28,13 @@ These prerequisites are the same for every Computer Science module using Docker 
 
 1. Clone this repository to your computer by clicking the green 'Code' button, and clicking 'Download ZIP'.
 2. Extract the downloaded Zip file.
-3. Inside the extracted folder is a folder entitled 'CMP9013 Introduction to Data Mining' which contains the .devcontainer folder. Move 'CMP9013 Introduction to Data Mining' to wherever you like, this will be your working directory for this module.
+3. Inside the extracted folder is a folder entitled 'AGR9013 Introduction to Data Mining' which contains the .devcontainer folder. Move 'AGR9013 Introduction to Data Mining' to wherever you like, this will be your working directory for this module.
 4. Make sure Docker Desktop is running. You can minimise the window.
-5. Open VS Code, go to File -> Open Folder, and select your 'CMP9013 Introduction to Data Mining' folder.
+5. Open VS Code, go to File -> Open Folder, and select your 'AGR9013 Introduction to Data Mining' folder.
 6. Click the 'Reopen in container' pop up in the bottom right corner of your VS Code window. If you do not see this pop up, press F1, and type 'Reopen in Container', and click on the 'Dev Containers: Reopen in Container' command.
 7. The Docker image will now be downloaded, and the container will be started. You can click 'show log' in the bottom right corner to see what is going on.
 8. Your docker container is now running! Within this VS Code window, you can now run workshop or assignment material exactly the same as in the computing labs.
-9. If we ever push an update to the container, you will need to go to Docker Desktop -> Images, find ghcr.io/socstech/cmp9013, click the ... button, and click pull. This will pull the most recent version of the docker container. There should be Blackboard announcements letting you know if you ever need to do this, but it is good to do this step every time before you want to use the container.
+9. If we ever push an update to the container, you will need to go to Docker Desktop -> Images, find ghcr.io/socstech/agr9013, click the ... button, and click pull. This will pull the most recent version of the docker container. There should be Blackboard announcements letting you know if you ever need to do this, but it is good to do this step every time before you want to use the container.
 
 ### Troubleshooting
 
